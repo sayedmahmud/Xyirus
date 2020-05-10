@@ -1,0 +1,7 @@
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\bin\Debug\Xyirus.exe.config
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\bin\Debug\Xyirus.exe
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\bin\Debug\Xyirus.pdb
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\obj\Debug\Xyirus.csprojAssemblyReference.cache
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\obj\Debug\Xyirus.csproj.CoreCompileInputs.cache
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\obj\Debug\Xyirus.exe
+C:\Users\King$oul\source\repos\Xyirus\Xyirus\obj\Debug\Xyirus.pdb
