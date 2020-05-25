@@ -1,5 +1,4 @@
 # Xyirus
-🚀 Special loader for channel @dark_ho1e
 
 # 🔑 Function 
 - [x] Download
